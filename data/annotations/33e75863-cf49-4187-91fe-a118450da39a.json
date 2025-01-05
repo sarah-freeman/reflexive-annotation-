@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic tone with variable low pitch and variable low-mid volume."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3cc2d77c-76f7-47ee-a13c-afc200d976e7"
+    }
+  ],
   "set": "Default",
   "event_id": "f5453f9e-7dde-4054-82af-5c7afbd0e68c",
   "source_id": "3534fc25-3aaa-451c-8e71-298bd9767612"
