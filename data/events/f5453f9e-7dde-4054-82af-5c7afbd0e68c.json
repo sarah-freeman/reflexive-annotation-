@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "3534fc25-3aaa-451c-8e71-298bd9767612": {
+      "label": "Mic 1",
+      "is_offline": false,
+      "file_url": "https://ia800200.us.archive.org/25/items/mic-1-sample_202403/Mic%201%20Sample.wav",
+      "duration": 394
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Mic 1",
+  "created_at": "2025-01-05T21:48:08.637Z",
+  "created_by": "sarah-freeman",
+  "updated_at": "2025-01-05T21:48:08.637Z",
+  "updated_by": "sarah-freeman"
+}

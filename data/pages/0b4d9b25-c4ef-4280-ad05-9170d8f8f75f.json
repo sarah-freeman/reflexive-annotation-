@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-01-05T21:48:09.201Z",
+  "created_by": "sarah-freeman",
+  "title": "Mic 1",
+  "slug": "mic-1",
+  "updated_at": "2025-01-05T21:48:09.201Z",
+  "updated_by": "sarah-freeman",
+  "parent": "e09cf5be-c2c2-4ef0-9c3d-41f27fe7b2bc",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "f5453f9e-7dde-4054-82af-5c7afbd0e68c"
+  }
+}

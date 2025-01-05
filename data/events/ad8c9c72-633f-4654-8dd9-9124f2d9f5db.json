@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "23e110f3-faab-43c1-a508-bb868c1bcd96": {
+      "label": "Mic 3",
+      "is_offline": false,
+      "file_url": "https://ia600201.us.archive.org/33/items/mic-3-sample/Mic%203%20Sample.wav",
+      "duration": 394
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Mic 3",
+  "created_at": "2025-01-05T21:48:08.637Z",
+  "created_by": "sarah-freeman",
+  "updated_at": "2025-01-05T21:48:08.637Z",
+  "updated_by": "sarah-freeman"
+}

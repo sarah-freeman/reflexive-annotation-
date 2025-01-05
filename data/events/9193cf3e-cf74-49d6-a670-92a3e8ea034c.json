@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "ace50ee2-93e9-49c0-a649-8a489a323f9e": {
+      "label": "Mic 2",
+      "is_offline": false,
+      "file_url": "https://ia600202.us.archive.org/27/items/mic-2-sample/Mic%202%20Sample.wav",
+      "duration": 394
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Mic 2",
+  "created_at": "2025-01-05T21:48:08.637Z",
+  "created_by": "sarah-freeman",
+  "updated_at": "2025-01-05T21:48:08.637Z",
+  "updated_by": "sarah-freeman"
+}
