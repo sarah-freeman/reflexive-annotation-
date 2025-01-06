@@ -1480,6 +1480,27 @@
         }
       ],
       "uuid": "cdff1cbc-670c-4750-98de-d25828cc7d8b"
+    },
+    {
+      "start_time": 391,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Various clicks/bumps in background at low volume and low-mid pitches."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "7358e4ca-f924-47d9-a1cc-084e2383104f"
     }
   ],
   "set": "Default",
