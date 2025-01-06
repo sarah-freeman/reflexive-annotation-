@@ -540,6 +540,27 @@
       ],
       "tags": [],
       "uuid": "cfa5a008-eec6-443f-809a-50fd2d8cfae0"
+    },
+    {
+      "start_time": 153,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice speaking in a solemn tone and at medium volume, with pauses and hard onset and generally soft offset. There is an audible echo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "28247046-746a-4682-9933-a7cb3bcc5df2"
     }
   ],
   "set": "Default",
