@@ -1002,6 +1002,27 @@
         }
       ],
       "uuid": "b5967de5-1820-4578-bbbb-cdac6a002d00"
+    },
+    {
+      "start_time": 260,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Generally mid pitch, low volume polyphonic rumble/static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "c8340406-1823-4bc7-9650-dca0dca8bc55"
     }
   ],
   "set": "Default",
