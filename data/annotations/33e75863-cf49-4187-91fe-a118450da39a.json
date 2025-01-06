@@ -834,6 +834,27 @@
         }
       ],
       "uuid": "44ffa2b4-6a95-4134-a6fa-bac2a4c51da9"
+    },
+    {
+      "start_time": 229,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid-high volume, mid pitch pop with hard onset and offset and some echo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "9ff32f89-10bb-4ad5-b9a3-36c2258b3839"
     }
   ],
   "set": "Default",
