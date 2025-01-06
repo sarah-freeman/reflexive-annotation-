@@ -1186,6 +1186,27 @@
         }
       ],
       "uuid": "67e0522d-1dd2-49f3-9344-144b337c0ef8"
+    },
+    {
+      "start_time": 298,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Various friction sounds at mid-low pitch and mid-low volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "ebf8ac4b-2eef-4b4f-be2d-2b990d3e71f1"
     }
   ],
   "set": "Default",
