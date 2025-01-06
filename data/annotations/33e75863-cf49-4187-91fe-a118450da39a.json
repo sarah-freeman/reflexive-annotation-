@@ -939,6 +939,27 @@
         }
       ],
       "uuid": "fd1aa11e-742e-45d2-98da-2a49d9b7ef56"
+    },
+    {
+      "start_time": 238,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice, speaking at mid to low volume, with hard onset and soft offset of words, as well as generally long pauses between words and phrases, although speaking speed is highly variable."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "14326c02-e81a-411e-b05d-ed1db410593f"
     }
   ],
   "set": "Default",
