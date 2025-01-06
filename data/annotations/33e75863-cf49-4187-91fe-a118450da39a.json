@@ -897,6 +897,27 @@
         }
       ],
       "uuid": "d43d32af-a78d-4b24-ab5f-abe6c2438901"
+    },
+    {
+      "start_time": 237,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low volume, mid to high pitch static and pops with soft onset and offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "2f2657f5-d060-4daf-97ad-73930c77126e"
     }
   ],
   "set": "Default",
