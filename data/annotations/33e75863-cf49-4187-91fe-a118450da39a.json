@@ -188,6 +188,27 @@
         }
       ],
       "uuid": "6675567d-ce3b-420a-80ef-f4a4ee5b0de9"
+    },
+    {
+      "start_time": 37,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud whoosh sound with hard onset and soft offset, like a plane taking off overhead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "9bfbabea-6dc3-478a-a3bf-39feb177f2eb"
     }
   ],
   "set": "Default",
