@@ -398,6 +398,27 @@
         }
       ],
       "uuid": "bd7e313d-1868-43d6-9094-409049db5d68"
+    },
+    {
+      "start_time": 12,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High volume windy sound, like a jet taking off overhead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "bd7f5723-8c91-4dab-b69d-b29f1385cb3f"
     }
   ],
   "set": "Default",
