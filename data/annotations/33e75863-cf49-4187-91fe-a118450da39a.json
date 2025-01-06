@@ -209,6 +209,27 @@
         }
       ],
       "uuid": "9bfbabea-6dc3-478a-a3bf-39feb177f2eb"
+    },
+    {
+      "start_time": 62,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pop with hard onset and soft offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "abea64ab-f5aa-43e3-aabe-f44dc70be104"
     }
   ],
   "set": "Default",
