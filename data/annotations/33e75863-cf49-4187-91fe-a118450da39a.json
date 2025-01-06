@@ -603,6 +603,27 @@
         }
       ],
       "uuid": "f5c4f267-e11c-4763-b12a-a2916f4aa3fa"
+    },
+    {
+      "start_time": 164,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sudden mid pitch cracking sound with echo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "6cbaa1a7-803a-4296-8339-96fbbb14cfa5"
     }
   ],
   "set": "Default",
