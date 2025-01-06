@@ -272,6 +272,27 @@
         }
       ],
       "uuid": "d9c04e00-7394-42ac-81d3-974fa5f54b69"
+    },
+    {
+      "start_time": 65,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tapping and rolling sounds, like pool balls rolling down steps."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "07942c82-1dc9-4767-bd3c-fb66f6d717c5"
     }
   ],
   "set": "Default",
