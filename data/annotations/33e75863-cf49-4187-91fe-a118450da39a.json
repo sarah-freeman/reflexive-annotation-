@@ -1228,6 +1228,27 @@
         }
       ],
       "uuid": "19a5ef8d-34f0-48d7-a52f-6ed85f80f6eb"
+    },
+    {
+      "start_time": 311,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice speaking initially with hard onset and soft offset, moving to soft onset and offset. Initially mid volume and low pitch, moving to a whisper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "74793237-c610-4b52-8705-422f2871c959"
     }
   ],
   "set": "Default",
