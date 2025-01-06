@@ -1144,6 +1144,27 @@
         }
       ],
       "uuid": "22669098-cc29-44e0-8a1f-d18a11d0f27b"
+    },
+    {
+      "start_time": 292,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice begins at mid volume and pitch, each of which decrease at a gradual and fluctuating rate. Initial repetition of \"end,\" and very soft onset and offset in second half."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "add73753-a0a5-4d04-ad53-c295b0a75245"
     }
   ],
   "set": "Default",
