@@ -729,6 +729,27 @@
         }
       ],
       "uuid": "d9161d57-3f14-4f02-8e2c-96d878094741"
+    },
+    {
+      "start_time": 186,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Series of mid volume, static/distortion sounds that blend into each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "32cfab3d-066c-4bed-9e58-67765875dfb3"
     }
   ],
   "set": "Default",
