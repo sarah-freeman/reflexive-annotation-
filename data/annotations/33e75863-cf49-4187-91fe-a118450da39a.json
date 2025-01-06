@@ -750,6 +750,27 @@
         }
       ],
       "uuid": "32cfab3d-066c-4bed-9e58-67765875dfb3"
+    },
+    {
+      "start_time": 190,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Consistent static tone across all pitches (but mostly low pitches), with soft onset and offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "dc842c64-305e-4d2c-b33f-e730999ef8ee"
     }
   ],
   "set": "Default",
