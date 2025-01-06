@@ -666,6 +666,27 @@
         }
       ],
       "uuid": "691ee7f6-f33c-46ca-9f44-efc63f5f6d81"
+    },
+    {
+      "start_time": 173,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Series of low volume mid-pitch pops/cracks with soft onset and offset, accompanied by low volume, mid pitch static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "a4c85be9-a36d-4beb-9fb2-db365c9c84f4"
     }
   ],
   "set": "Default",
