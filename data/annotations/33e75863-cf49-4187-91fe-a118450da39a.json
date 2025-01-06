@@ -1102,6 +1102,27 @@
         }
       ],
       "uuid": "294eb483-1348-4dc4-9fdc-aeea7b3579bf"
+    },
+    {
+      "start_time": 284,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High volume electronic/vibrational polyphonic tone concentrated in low pitches (with some mid-pitch) crescendos into brassy mid-high pitch, while maintaining underlying vibrational low pitch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "c3b2e5e2-374d-459b-b2bd-151562d8d477"
     }
   ],
   "set": "Default",
