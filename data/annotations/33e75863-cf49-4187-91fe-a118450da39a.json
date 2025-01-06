@@ -561,6 +561,27 @@
         }
       ],
       "uuid": "28247046-746a-4682-9933-a7cb3bcc5df2"
+    },
+    {
+      "start_time": 157,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two low volume, mid pitch pops with soft onset and offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "8db9c989-4fd2-41ae-9b37-f3966b192021"
     }
   ],
   "set": "Default",
