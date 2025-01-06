@@ -1522,6 +1522,27 @@
         }
       ],
       "uuid": "835866c7-f46a-494c-9053-fb2c54cdc3a4"
+    },
+    {
+      "start_time": 395,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid volume, mid pitch hollow sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "27c0f5ff-bafc-4858-aa16-0a5da066b0df"
     }
   ],
   "set": "Default",
