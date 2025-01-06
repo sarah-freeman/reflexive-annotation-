@@ -356,6 +356,27 @@
         }
       ],
       "uuid": "8b3d42b3-af58-4bb4-b06d-cd51fa80288b"
+    },
+    {
+      "start_time": 119,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High volume tap with hard onset and offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "01beda8a-04f4-471a-8b67-6e4bd9dbb60a"
     }
   ],
   "set": "Default",
