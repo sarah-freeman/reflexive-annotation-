@@ -314,6 +314,27 @@
         }
       ],
       "uuid": "93d4697a-092c-4543-87fe-749f5bc267f3"
+    },
+    {
+      "start_time": 101,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sporadic mid volume rolling sound, like a pool ball rolling across a table."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "894b379c-aeb2-4ed0-89cd-2a240c131c4f"
     }
   ],
   "set": "Default",
