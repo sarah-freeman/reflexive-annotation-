@@ -230,6 +230,27 @@
         }
       ],
       "uuid": "abea64ab-f5aa-43e3-aabe-f44dc70be104"
+    },
+    {
+      "start_time": 49,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Several low pitch voices, speaking quickly in short sentences and varying volumes, distorted and distinct as if speaking through radios. Some unintelligible language due to fast speech, low volume, and intervening sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "5f4a486b-476a-41f6-a1a6-8bc2b97c04a1"
     }
   ],
   "set": "Default",
