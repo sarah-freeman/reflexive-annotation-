@@ -855,6 +855,27 @@
         }
       ],
       "uuid": "9ff32f89-10bb-4ad5-b9a3-36c2258b3839"
+    },
+    {
+      "start_time": 231,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zip distortion sound (rapid steps up) with soft onset and offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "5a1f9693-acd3-485d-8cd9-f01756c2fc36"
     }
   ],
   "set": "Default",
