@@ -293,6 +293,27 @@
         }
       ],
       "uuid": "07942c82-1dc9-4767-bd3c-fb66f6d717c5"
+    },
+    {
+      "start_time": 96,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sporadic mid volume popping/crinkling sound, like balling up a piece of paper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "93d4697a-092c-4543-87fe-749f5bc267f3"
     }
   ],
   "set": "Default",
