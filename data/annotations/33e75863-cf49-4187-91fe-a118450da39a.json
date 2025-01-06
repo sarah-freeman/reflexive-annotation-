@@ -419,6 +419,27 @@
         }
       ],
       "uuid": "bd7f5723-8c91-4dab-b69d-b29f1385cb3f"
+    },
+    {
+      "start_time": 138,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low volume consistent vibrating sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "9f25c6ff-5dad-48ed-b0b5-128c9082dfe2"
     }
   ],
   "set": "Default",
