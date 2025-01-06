@@ -125,6 +125,27 @@
         }
       ],
       "uuid": "fe24538e-aa7a-436f-92db-0f3455d90995"
+    },
+    {
+      "start_time": 25,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low volume, fluctuating high pitch electronic tone drifts in and out of audibility."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "b16482e7-8643-46af-a9cb-7599478418c9"
     }
   ],
   "set": "Default",
