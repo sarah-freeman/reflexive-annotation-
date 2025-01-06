@@ -104,6 +104,27 @@
         }
       ],
       "uuid": "6ed24262-2928-4493-abe4-a71b1e8c1a0b"
+    },
+    {
+      "start_time": 22,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice speaking slowly with clearly-defined words. The words are all audible, but intermingled into the coexisting sounds, which are about the same volume as the voice. Generally harder onset, with sometimes soft offset. Language invoking movement and manipulation, such as \"malleable,\" \"brute\" and \"operating.\" There is an audible echo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "fe24538e-aa7a-436f-92db-0f3455d90995"
     }
   ],
   "set": "Default",
