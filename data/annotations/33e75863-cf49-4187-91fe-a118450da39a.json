@@ -792,6 +792,27 @@
         }
       ],
       "uuid": "e92fa779-5b63-452b-b50f-d8d369c53026"
+    },
+    {
+      "start_time": 193,
+      "end_time": 223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High volume, low pitch voice speaking quickly with hard onset and offset (in both words and individual syllables). Lack of typical speech modulation for sentence flow and word connotation [i.e. extremely consistent intonation and speed]. Semantic markers of multi-sided conversation (e.g. \"Right? Yeah.\"). Moderate echo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "8df45f9c-fb93-4c2e-9a83-63b7b93b85d8"
     }
   ],
   "set": "Default",
