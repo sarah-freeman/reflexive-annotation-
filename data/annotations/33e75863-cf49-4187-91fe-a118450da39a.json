@@ -1312,6 +1312,27 @@
         }
       ],
       "uuid": "39911f5a-0013-4823-b7b2-44e666e55ae1"
+    },
+    {
+      "start_time": 324,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Various sporadic pops/clicks with low volume and low to mid pitch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "b0a7fa2b-1526-4d8e-8b73-2fa0d093f96a"
     }
   ],
   "set": "Default",
