@@ -1354,6 +1354,27 @@
         }
       ],
       "uuid": "46f8ac9d-d692-415c-9f12-4631287a2c7e"
+    },
+    {
+      "start_time": 366,
+      "end_time": 378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low volume, high pitch fluctuating electronic tone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "a5a9c7c6-88fc-40fc-be84-93022d4f0af9"
     }
   ],
   "set": "Default",
