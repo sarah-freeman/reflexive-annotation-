@@ -524,6 +524,22 @@
         }
       ],
       "uuid": "c666063f-e110-441a-89e7-4e6d0e3f831f"
+    },
+    {
+      "start_time": 153,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid volume, low pitch crack with hard onset and soft offset."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cfa5a008-eec6-443f-809a-50fd2d8cfae0"
     }
   ],
   "set": "Default",
