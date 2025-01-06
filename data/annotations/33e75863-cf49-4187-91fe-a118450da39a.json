@@ -1023,6 +1023,27 @@
         }
       ],
       "uuid": "c8340406-1823-4bc7-9650-dca0dca8bc55"
+    },
+    {
+      "start_time": 263,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High volume, low/mid pitch tap (like pool balls hitting) with hard onset and soft offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "5a7c6542-5ad3-4055-9514-97f03c446a7c"
     }
   ],
   "set": "Default",
