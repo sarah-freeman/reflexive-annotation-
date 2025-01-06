@@ -1459,6 +1459,27 @@
         }
       ],
       "uuid": "15b4a91b-6c26-4cbf-91ec-0ad828675c07"
+    },
+    {
+      "start_time": 390,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High pitch, low volume beep."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "cdff1cbc-670c-4750-98de-d25828cc7d8b"
     }
   ],
   "set": "Default",
