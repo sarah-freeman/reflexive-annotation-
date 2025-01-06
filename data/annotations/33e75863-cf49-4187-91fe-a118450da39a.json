@@ -1375,6 +1375,27 @@
         }
       ],
       "uuid": "a5a9c7c6-88fc-40fc-be84-93022d4f0af9"
+    },
+    {
+      "start_time": 615,
+      "end_time": 621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brassy, vibrational mid volume, low pitch rumbling sound in back/midground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "9cd77e86-335f-42ce-ba94-111b0f0ce340"
     }
   ],
   "set": "Default",
