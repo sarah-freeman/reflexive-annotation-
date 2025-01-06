@@ -62,6 +62,27 @@
         }
       ],
       "uuid": "590d54dd-39f0-4355-bc5e-9c326cb33f97"
+    },
+    {
+      "start_time": 19,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Friction sound, like sandpaper on wood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "59dc8cb6-14db-4952-ba22-d75b98dae0f5"
     }
   ],
   "set": "Default",
