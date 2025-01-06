@@ -440,6 +440,27 @@
         }
       ],
       "uuid": "9f25c6ff-5dad-48ed-b0b5-128c9082dfe2"
+    },
+    {
+      "start_time": 139,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Polyphonic brassy buzz, which fades in to a loud peak volume and then fades out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "8faa0024-6b78-4006-8734-601b84fdd73d"
     }
   ],
   "set": "Default",
