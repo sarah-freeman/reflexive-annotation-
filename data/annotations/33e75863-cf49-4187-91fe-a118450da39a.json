@@ -13,7 +13,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
       "uuid": "3cc2d77c-76f7-47ee-a13c-afc200d976e7"
     },
     {
