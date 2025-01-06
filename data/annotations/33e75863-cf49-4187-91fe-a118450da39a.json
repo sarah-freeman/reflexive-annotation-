@@ -482,6 +482,27 @@
         }
       ],
       "uuid": "2a28a6d0-3d84-4481-85ed-304e82b525d3"
+    },
+    {
+      "start_time": 152,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low volume, high pitch pop with hard onset and soft offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "70bd64eb-1a68-4e22-a8b0-f4e5f42b293a"
     }
   ],
   "set": "Default",
