@@ -1501,6 +1501,27 @@
         }
       ],
       "uuid": "7358e4ca-f924-47d9-a1cc-084e2383104f"
+    },
+    {
+      "start_time": 392,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Static concentrated in low pitches at mid-volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "835866c7-f46a-494c-9053-fb2c54cdc3a4"
     }
   ],
   "set": "Default",
