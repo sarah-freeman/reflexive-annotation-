@@ -1438,6 +1438,27 @@
         }
       ],
       "uuid": "2a317b1c-8514-461e-a22a-9de0c0697093"
+    },
+    {
+      "start_time": 389,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low pitch, low volume blunt tap in background."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "15b4a91b-6c26-4cbf-91ec-0ad828675c07"
     }
   ],
   "set": "Default",
