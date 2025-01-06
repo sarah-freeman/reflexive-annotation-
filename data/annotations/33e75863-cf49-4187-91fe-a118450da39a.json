@@ -251,6 +251,27 @@
         }
       ],
       "uuid": "5f4a486b-476a-41f6-a1a6-8bc2b97c04a1"
+    },
+    {
+      "start_time": 63,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice speaking at mid speed, often with pauses between phrases and words. There is an audible echo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "d9c04e00-7394-42ac-81d3-974fa5f54b69"
     }
   ],
   "set": "Default",
