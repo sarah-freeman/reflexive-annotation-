@@ -155,12 +155,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Pop with hard onset and soft offset."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
       "uuid": "8fc07be7-788a-4cdd-8d31-133f1d3cc498"
     }
   ],
