@@ -771,6 +771,27 @@
         }
       ],
       "uuid": "dc842c64-305e-4d2c-b33f-e730999ef8ee"
+    },
+    {
+      "start_time": 190,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic tone fades out slowly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "e92fa779-5b63-452b-b50f-d8d369c53026"
     }
   ],
   "set": "Default",
