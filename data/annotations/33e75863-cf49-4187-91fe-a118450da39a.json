@@ -1165,6 +1165,27 @@
         }
       ],
       "uuid": "add73753-a0a5-4d04-ad53-c295b0a75245"
+    },
+    {
+      "start_time": 294,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Return to baseline electronic tone with low pitch and low volume that vary in consistent intervals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "67e0522d-1dd2-49f3-9344-144b337c0ef8"
     }
   ],
   "set": "Default",
