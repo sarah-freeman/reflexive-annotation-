@@ -687,6 +687,27 @@
         }
       ],
       "uuid": "a4c85be9-a36d-4beb-9fb2-db365c9c84f4"
+    },
+    {
+      "start_time": 176,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Series of high pitch, low volume, tinny clicks with soft onset and offset and possible echo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "6bd71fbf-7879-4866-a334-5724fa490cb7"
     }
   ],
   "set": "Default",
