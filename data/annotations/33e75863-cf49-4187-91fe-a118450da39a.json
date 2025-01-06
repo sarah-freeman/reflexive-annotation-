@@ -83,6 +83,27 @@
         }
       ],
       "uuid": "59dc8cb6-14db-4952-ba22-d75b98dae0f5"
+    },
+    {
+      "start_time": 19,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Click with soft onset and offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "6ed24262-2928-4493-abe4-a71b1e8c1a0b"
     }
   ],
   "set": "Default",
