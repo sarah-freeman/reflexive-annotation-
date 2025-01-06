@@ -461,6 +461,27 @@
         }
       ],
       "uuid": "8faa0024-6b78-4006-8734-601b84fdd73d"
+    },
+    {
+      "start_time": 149,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid volume windy sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "2a28a6d0-3d84-4481-85ed-304e82b525d3"
     }
   ],
   "set": "Default",
