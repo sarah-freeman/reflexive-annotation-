@@ -167,6 +167,27 @@
         }
       ],
       "uuid": "8fc07be7-788a-4cdd-8d31-133f1d3cc498"
+    },
+    {
+      "start_time": 36,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low volume, muffled friction sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "6675567d-ce3b-420a-80ef-f4a4ee5b0de9"
     }
   ],
   "set": "Default",
