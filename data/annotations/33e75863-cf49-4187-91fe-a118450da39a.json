@@ -377,6 +377,27 @@
         }
       ],
       "uuid": "01beda8a-04f4-471a-8b67-6e4bd9dbb60a"
+    },
+    {
+      "start_time": 130,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Crescendo tone with light static distortion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "bd7e313d-1868-43d6-9094-409049db5d68"
     }
   ],
   "set": "Default",
