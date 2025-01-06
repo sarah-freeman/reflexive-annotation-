@@ -645,6 +645,27 @@
         }
       ],
       "uuid": "da6ed176-bf23-4ec1-8917-6f0b253c3ab7"
+    },
+    {
+      "start_time": 168,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three consecutive low volume, high pitch static/distortion sounds with very soft onset and offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "691ee7f6-f33c-46ca-9f44-efc63f5f6d81"
     }
   ],
   "set": "Default",
