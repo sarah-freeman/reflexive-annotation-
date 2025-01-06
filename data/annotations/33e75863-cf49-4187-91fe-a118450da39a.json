@@ -960,6 +960,27 @@
         }
       ],
       "uuid": "14326c02-e81a-411e-b05d-ed1db410593f"
+    },
+    {
+      "start_time": 254,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High pitch, mid volume click with soft onset and offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "8942be90-b3cc-4bee-804d-6bd7cc9ef5a9"
     }
   ],
   "set": "Default",
