@@ -708,6 +708,27 @@
         }
       ],
       "uuid": "6bd71fbf-7879-4866-a334-5724fa490cb7"
+    },
+    {
+      "start_time": 182,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Acute, moderate increase in volume and pitch of electronic bass tone, which tapers off slowly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "d9161d57-3f14-4f02-8e2c-96d878094741"
     }
   ],
   "set": "Default",
