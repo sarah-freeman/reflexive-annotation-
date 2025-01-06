@@ -15,6 +15,27 @@
       ],
       "tags": [],
       "uuid": "3cc2d77c-76f7-47ee-a13c-afc200d976e7"
+    },
+    {
+      "start_time": 14,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Static distorting original tone becomes audible, increases in volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 1",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "0d74313c-d89c-4f5d-8014-8badf9cb644a"
     }
   ],
   "set": "Default",
