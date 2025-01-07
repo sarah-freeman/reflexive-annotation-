@@ -461,6 +461,27 @@
         }
       ],
       "uuid": "8f881422-a43a-4684-9d4a-862253adfb6e"
+    },
+    {
+      "start_time": 225,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Polyphonic electronic sound which loops on a ~4 second interval from mid-low pitch, mid volume, and prominent static to low pitch and low volume. Periodic pop with hard onset and offset, mid pitch and mid volume at the end of each loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic tones and distortions",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "04de04e0-c032-4a5a-927a-a365a59dc9db"
     }
   ],
   "set": "Default",
