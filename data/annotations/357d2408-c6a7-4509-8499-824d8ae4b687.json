@@ -419,6 +419,27 @@
         }
       ],
       "uuid": "fef66ac8-83be-4de6-9126-15c5d7b96247"
+    },
+    {
+      "start_time": 165,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Polyphonic, periodic electronic tone increases to high volume, then tapers off."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic tones and distortions",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "01a97332-3c5f-409e-87b9-77c82b575af2"
     }
   ],
   "set": "Default",
