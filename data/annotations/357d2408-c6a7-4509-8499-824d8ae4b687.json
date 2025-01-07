@@ -272,6 +272,27 @@
         }
       ],
       "uuid": "3b665641-56c1-44ce-8900-085d32ae6eb5"
+    },
+    {
+      "start_time": 101,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gravelly, crunching sound beginning with a period of ~0.5 second. Low to mid pitch and volume. Period becomes longer and volume decreases through this interval."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Friction sounds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "0cd03f7f-fd2c-4b09-beed-6ce9d84680ba"
     }
   ],
   "set": "Default",
