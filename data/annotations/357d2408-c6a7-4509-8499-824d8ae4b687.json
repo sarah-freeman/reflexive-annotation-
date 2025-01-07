@@ -503,6 +503,27 @@
         }
       ],
       "uuid": "d65711ad-40a9-4d65-ad46-968367825fb2"
+    },
+    {
+      "start_time": 237,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice, speaking at mid pitch and mid volume. Variable groupings of 1-10 words with pauses between. Variable speaking speed.  Emphasis on \"time turns deadly\" through relatively high volume and pitch, as well as hard onset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking voices",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "0e0bbe63-9810-4c55-bb83-15d72a9b2e02"
     }
   ],
   "set": "Default",
