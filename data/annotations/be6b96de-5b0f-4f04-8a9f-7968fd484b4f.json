@@ -1044,6 +1044,27 @@
         }
       ],
       "uuid": "97df74a8-73a6-45e5-b650-ffc04cd72dd2"
+    },
+    {
+      "start_time": 292,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid pitch, mid volume vocalizations which slow and decrease in volume and pitch over this interval."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "c8a515b6-af3d-4251-9aaa-16c1153b97db"
     }
   ],
   "set": "Default",
