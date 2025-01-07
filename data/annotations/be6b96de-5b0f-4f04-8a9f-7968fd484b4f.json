@@ -566,6 +566,22 @@
         }
       ],
       "uuid": "d54c9943-ab46-4de6-bb55-535c4be97330"
+    },
+    {
+      "start_time": 130,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Metallic, electronic tone at mid pitch and high volume."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f21d0897-ba60-4574-9eaf-fc190ddb84e8"
     }
   ],
   "set": "Default",
