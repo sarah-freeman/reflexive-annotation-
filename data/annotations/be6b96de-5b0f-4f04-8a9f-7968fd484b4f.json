@@ -125,6 +125,27 @@
         }
       ],
       "uuid": "7cb44eb0-9426-4a52-9368-50c9aa661a0a"
+    },
+    {
+      "start_time": 15,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fluctuating static tone at mid-high pitch and low-mid volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "1c70d146-8c89-45fd-9e9a-964c6389a15d"
     }
   ],
   "set": "Default",
