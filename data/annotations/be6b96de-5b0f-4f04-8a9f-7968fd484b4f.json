@@ -855,6 +855,27 @@
         }
       ],
       "uuid": "16c7ff07-74bf-4f6b-8d2d-11173bc0f249"
+    },
+    {
+      "start_time": 229,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intermittent mid pitch, low-mid volume cracks/pops."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "6078acea-86bc-42b5-aa2a-502b13cb8e5a"
     }
   ],
   "set": "Default",
