@@ -1170,6 +1170,27 @@
         }
       ],
       "uuid": "ba0f7b93-2405-416c-9d4a-91ec70c366b0"
+    },
+    {
+      "start_time": 359,
+      "end_time": 378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Static, fluctuating at mid pitch and low-mid volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "f2f3ac72-855c-41b9-9642-5cc24591e38c"
     }
   ],
   "set": "Default",
