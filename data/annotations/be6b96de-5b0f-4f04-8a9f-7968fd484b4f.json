@@ -440,6 +440,27 @@
         }
       ],
       "uuid": "e9594754-e936-412f-bd0b-2f68b911cea7"
+    },
+    {
+      "start_time": 86,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High volume, mid-high pitch hollow/pop sound across all pitches, with hard onset and offset. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "059d9652-9d94-459b-a3b7-c7f7fedb6689"
     }
   ],
   "set": "Default",
