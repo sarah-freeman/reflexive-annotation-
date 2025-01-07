@@ -419,6 +419,27 @@
         }
       ],
       "uuid": "e805b751-58d8-400a-8f39-0918aa4dbe25"
+    },
+    {
+      "start_time": 82,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intermittent clanking, brassy resonant sounds with soft onset and offset, at varying pitch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "e9594754-e936-412f-bd0b-2f68b911cea7"
     }
   ],
   "set": "Default",
