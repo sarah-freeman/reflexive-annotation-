@@ -503,6 +503,27 @@
         }
       ],
       "uuid": "367e4d2b-7856-4d12-9283-b904a7a67d87"
+    },
+    {
+      "start_time": 101,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muffled scratchy sound with varying pitch and low-mid volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "abc2e011-596c-4040-bc41-3bdf464c4ed4"
     }
   ],
   "set": "Default",
