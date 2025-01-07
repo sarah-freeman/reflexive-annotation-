@@ -750,6 +750,27 @@
         }
       ],
       "uuid": "ed5ccab9-a225-4532-a5d0-20ba14b5f086"
+    },
+    {
+      "start_time": 165,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low pitch, low volume electronic tone increases to high volume, then decreases until inaudible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "f9a34617-d24f-45af-b679-f4eb5111b02c"
     }
   ],
   "set": "Default",
