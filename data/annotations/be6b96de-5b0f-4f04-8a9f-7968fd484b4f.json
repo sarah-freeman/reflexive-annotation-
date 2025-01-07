@@ -461,6 +461,27 @@
         }
       ],
       "uuid": "059d9652-9d94-459b-a3b7-c7f7fedb6689"
+    },
+    {
+      "start_time": 87,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid pitch vocalizations at mid volume with mid-soft onset and soft offset, decreasing in speed and volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "4a009fd5-3234-40d9-a13c-b1304158f727"
     }
   ],
   "set": "Default",
