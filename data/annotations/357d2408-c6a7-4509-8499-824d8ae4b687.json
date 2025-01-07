@@ -566,6 +566,27 @@
         }
       ],
       "uuid": "0a449596-197f-413c-9bbe-a0918ed35283"
+    },
+    {
+      "start_time": 258,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Polyphonic electronic sound continues to loop on a ~4 second interval, without resonant brassy tone. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic tones and distortions",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "87c2d888-262d-4061-bda8-6c79cfa0da6a"
     }
   ],
   "set": "Default",
