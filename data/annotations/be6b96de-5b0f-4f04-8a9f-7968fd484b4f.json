@@ -1107,6 +1107,27 @@
         }
       ],
       "uuid": "24a91422-bb4f-4b0a-b661-e5a5d716a1bd"
+    },
+    {
+      "start_time": 327,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muffled, resonant metallic tones at various intervals. Various mid pitches and low volume. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "48031308-3212-47e0-b53d-aa186a28b7c3"
     }
   ],
   "set": "Default",
