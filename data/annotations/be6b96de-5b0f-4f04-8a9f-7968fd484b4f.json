@@ -1023,6 +1023,27 @@
         }
       ],
       "uuid": "a4e77d38-20bc-47cb-b563-9f4620c4882c"
+    },
+    {
+      "start_time": 292,
+      "end_time": 384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Variable, resonant electronic sound which loops from low pitch and mid volume to mid pitch and mid-high volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "97df74a8-73a6-45e5-b650-ffc04cd72dd2"
     }
   ],
   "set": "Default",
