@@ -1254,6 +1254,27 @@
         }
       ],
       "uuid": "ffa22ed8-f5d8-45db-aeed-fb1e3ab433f0"
+    },
+    {
+      "start_time": 394,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low pitch, mid volume vocalization."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "da613088-fb2c-413d-8777-4195dc610f67"
     }
   ],
   "set": "Default",
