@@ -629,6 +629,27 @@
         }
       ],
       "uuid": "1b0bac7c-144f-49c6-bac1-deb29421163f"
+    },
+    {
+      "start_time": 283,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low pitch static sound, accompanied by mid-high pitch tone which crescendos, spreading across all pitches and increasing in volume. The tone has a brassy, resonant character. Then, decrease in volume until inaudible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic tones and distortions",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "2495c88f-6a9f-48ce-8bbb-18e8af50b39d"
     }
   ],
   "set": "Default",
