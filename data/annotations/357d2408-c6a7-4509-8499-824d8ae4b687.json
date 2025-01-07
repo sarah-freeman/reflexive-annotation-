@@ -293,6 +293,27 @@
         }
       ],
       "uuid": "0cd03f7f-fd2c-4b09-beed-6ce9d84680ba"
+    },
+    {
+      "start_time": 130,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Polyphonic electronic tone crescendos to high volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic tones and distortions",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "af65500a-88dc-48e8-8c67-cfec95c638a2"
     }
   ],
   "set": "Default",
