@@ -692,6 +692,27 @@
         }
       ],
       "uuid": "a6050026-48c6-4cda-8a82-abc84f1198e7"
+    },
+    {
+      "start_time": 297,
+      "end_time": 306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice, mid pitch and volume, speaking with relatively few pauses. Repetition of \"end.\" Speech slows and decreases in volume near the end of this interval."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Friction sounds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "52fe43d2-7980-4d3e-8373-3028d54d5b11"
     }
   ],
   "set": "Default",
