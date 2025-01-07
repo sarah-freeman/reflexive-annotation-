@@ -545,6 +545,27 @@
         }
       ],
       "uuid": "eab7ccf4-766b-4d06-bf01-d0db4cc4b206"
+    },
+    {
+      "start_time": 250,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice, speaking at mid pitch and mid volume. Variable groupings of 1-10 words with pauses between. Variable speaking speed.  Emphasis on \"time turns deadly\" through relatively high volume and pitch, as well as hard onset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic tones and distortions",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "0a449596-197f-413c-9bbe-a0918ed35283"
     }
   ],
   "set": "Default",
