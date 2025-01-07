@@ -1149,6 +1149,27 @@
         }
       ],
       "uuid": "9e76c981-6b58-474e-8e8d-29c6436fdfcd"
+    },
+    {
+      "start_time": 350,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intermittent vocalizations at mid volume and low-mid pitch with hard onset and soft offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "ba0f7b93-2405-416c-9d4a-91ec70c366b0"
     }
   ],
   "set": "Default",
