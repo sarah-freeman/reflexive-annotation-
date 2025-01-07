@@ -713,6 +713,27 @@
         }
       ],
       "uuid": "52fe43d2-7980-4d3e-8373-3028d54d5b11"
+    },
+    {
+      "start_time": 311,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice at low speed and mid-low pitch. Pauses between words increase and offset softens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking voices",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "65137447-866c-412d-a974-6f9c1949cc83"
     }
   ],
   "set": "Default",
