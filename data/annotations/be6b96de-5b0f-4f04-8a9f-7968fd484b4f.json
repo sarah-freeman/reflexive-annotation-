@@ -645,6 +645,27 @@
         }
       ],
       "uuid": "766df843-8edf-446e-9658-63fbd8fd6214"
+    },
+    {
+      "start_time": 147,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Static tone at mid pitch and low volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "0c970bfb-2854-417d-b221-221fb0e0720f"
     }
   ],
   "set": "Default",
