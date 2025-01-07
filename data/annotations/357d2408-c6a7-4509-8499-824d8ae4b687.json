@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "71321558-a136-42eb-aef7-208ee6c830de"
+    },
+    {
+      "start_time": 10,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low pitch, mid volume constant electronic bass sound continues. Wavering static sound has more pronounced fluctuations at mid volume and generally mid pitch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic tones and distortions",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "ccbcbcd4-4ff8-4c48-951e-9760c2bd5dae"
     }
   ],
   "set": "Default",
