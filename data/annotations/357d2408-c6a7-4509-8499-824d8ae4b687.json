@@ -776,6 +776,27 @@
         }
       ],
       "uuid": "fe659776-2009-4337-9350-3a601002cc59"
+    },
+    {
+      "start_time": 59,
+      "end_time": 378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distorted tone which fluctuates in mid pitch and mid volume ranges."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic tones and distortions",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "9f5afd94-eecc-48d1-b03a-347dad089da7"
     }
   ],
   "set": "Default",
