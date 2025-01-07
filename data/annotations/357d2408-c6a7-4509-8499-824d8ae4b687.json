@@ -167,6 +167,27 @@
         }
       ],
       "uuid": "a1ffba00-efea-4fbd-859a-90cf7b6ea8f3"
+    },
+    {
+      "start_time": 81,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Series of acute, generally low volume, metallic sounds that resonate. These occur on an inconsistent interval with inconsistent pitch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Friction sounds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "62f45087-a7c8-4008-8a74-3ce58c8c47a8"
     }
   ],
   "set": "Default",
