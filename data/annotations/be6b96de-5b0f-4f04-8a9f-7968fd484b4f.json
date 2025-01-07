@@ -482,6 +482,27 @@
         }
       ],
       "uuid": "4a009fd5-3234-40d9-a13c-b1304158f727"
+    },
+    {
+      "start_time": 96,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intermittent crunching sound with low to mid pitch and varying volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "367e4d2b-7856-4d12-9283-b904a7a67d87"
     }
   ],
   "set": "Default",
