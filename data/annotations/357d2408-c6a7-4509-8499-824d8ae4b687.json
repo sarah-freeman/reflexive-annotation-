@@ -356,6 +356,27 @@
         }
       ],
       "uuid": "b02e6325-c761-449d-8098-4cd80913be11"
+    },
+    {
+      "start_time": 148,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distorted, static tone, followed by mid pitch, mid volume electronic toe which increases and then decreases. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic tones and distortions",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "233f19f6-dff2-472b-9cf0-31630ce962c5"
     }
   ],
   "set": "Default",
