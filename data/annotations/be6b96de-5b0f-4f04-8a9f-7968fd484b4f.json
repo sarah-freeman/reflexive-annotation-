@@ -1086,6 +1086,27 @@
         }
       ],
       "uuid": "1bd467c4-7caf-4ff1-acf7-e14c865fd8f7"
+    },
+    {
+      "start_time": 311,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid-low pitch, mid-low volume vocalizations with soft onset and offset, with long pauses between."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "24a91422-bb4f-4b0a-b661-e5a5d716a1bd"
     }
   ],
   "set": "Default",
