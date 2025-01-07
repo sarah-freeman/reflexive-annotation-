@@ -398,6 +398,27 @@
         }
       ],
       "uuid": "dc16ccac-269e-46b6-a1ca-19bba0fc49dc"
+    },
+    {
+      "start_time": 153,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice, speaking with a grave tone and relatively low pitch. Phrases are broken up into groups of two words, with pauses between words. Volume decreases and onset/offset becomes softer throughout this interval."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking voices",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "fef66ac8-83be-4de6-9126-15c5d7b96247"
     }
   ],
   "set": "Default",
