@@ -666,6 +666,27 @@
         }
       ],
       "uuid": "0c970bfb-2854-417d-b221-221fb0e0720f"
+    },
+    {
+      "start_time": 148,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid pitch, mid volume buzzing/windy sound increases in volume and pitch to reach a high point, then decreases until inaudible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "56c8292c-bd28-4919-a57e-1f1005f1272a"
     }
   ],
   "set": "Default",
