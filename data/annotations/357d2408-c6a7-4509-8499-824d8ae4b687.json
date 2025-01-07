@@ -587,6 +587,27 @@
         }
       ],
       "uuid": "87c2d888-262d-4061-bda8-6c79cfa0da6a"
+    },
+    {
+      "start_time": 260,
+      "end_time": 276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muffled, low-mid pitch, low volume scratchy sound which fluctuates on inconsistent intervals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Friction sounds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "4866a094-19c9-4790-b722-eefc1bcad8ea"
     }
   ],
   "set": "Default",
