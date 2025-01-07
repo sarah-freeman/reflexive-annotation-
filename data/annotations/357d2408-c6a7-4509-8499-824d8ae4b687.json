@@ -125,6 +125,27 @@
         }
       ],
       "uuid": "a354c9d6-c74c-49e7-8f5d-4f5a681de561"
+    },
+    {
+      "start_time": 5,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muffled mid pitch clicking sound, like ball bearings colliding. Accompanied by low pitch, windy sound. Becomes audible just as Avasilichioaei says the words \"laboured hand.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Friction sounds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "e3130bad-b3ed-4154-8d7d-cccea594145c"
     }
   ],
   "set": "Default",
