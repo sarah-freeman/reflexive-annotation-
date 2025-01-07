@@ -734,6 +734,27 @@
         }
       ],
       "uuid": "65137447-866c-412d-a974-6f9c1949cc83"
+    },
+    {
+      "start_time": 327,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice at low speed and mid-low pitch. Pauses between words increase and offset softens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Friction sounds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "c7fd6864-1515-4cdc-afeb-d4c2001ae22d"
     }
   ],
   "set": "Default",
