@@ -1275,6 +1275,27 @@
         }
       ],
       "uuid": "da613088-fb2c-413d-8777-4195dc610f67"
+    },
+    {
+      "start_time": 395,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Several pops/cracks at high volume and mid pitch, with hard onset and offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "fee9a376-600e-4d60-aa87-11c651353086"
     }
   ],
   "set": "Default",
