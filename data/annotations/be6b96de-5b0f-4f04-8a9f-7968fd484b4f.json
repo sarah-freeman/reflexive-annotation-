@@ -897,6 +897,27 @@
         }
       ],
       "uuid": "518b2ace-b5de-4eab-8c24-26a2bab5fc5e"
+    },
+    {
+      "start_time": 250,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resonant brassy/metallic tone at mid pitch and mid volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "5d1c93ca-bc04-437d-8589-5636374ec340"
     }
   ],
   "set": "Default",
