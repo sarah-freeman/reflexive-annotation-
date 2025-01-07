@@ -62,6 +62,27 @@
         }
       ],
       "uuid": "c27208cb-764e-4265-93a4-4bf7751b0977"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Series of friction sounds (pops, cracks, gravelly sounds) in quick succession, at mid volume and mid-high pitch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "e782329f-42bd-4fa2-95ee-f74be77d9071"
     }
   ],
   "set": "Default",
