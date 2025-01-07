@@ -797,6 +797,27 @@
         }
       ],
       "uuid": "9f5afd94-eecc-48d1-b03a-347dad089da7"
+    },
+    {
+      "start_time": 359,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Crunching sound at high-mid pitch and low-mid volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Friction sounds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "b68204b9-e5e1-4173-9d82-6c8f98b65c21"
     }
   ],
   "set": "Default",
