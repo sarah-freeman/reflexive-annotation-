@@ -62,6 +62,27 @@
         }
       ],
       "uuid": "ccbcbcd4-4ff8-4c48-951e-9760c2bd5dae"
+    },
+    {
+      "start_time": 22,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice, smooth and clear, with aspirant onset and offset, mid volume and mid pitch. Pauses within phrases and between them. Emphasis on \"the subject\" and \"brute future,\" which are louder than the surrounding words and uttered with more defined onset. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking voices",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "536a8978-935f-4bb1-a83f-e0bd0421a506"
     }
   ],
   "set": "Default",
