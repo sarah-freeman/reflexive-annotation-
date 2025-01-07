@@ -356,6 +356,27 @@
         }
       ],
       "uuid": "55b2eaa9-54bf-4ec8-a669-ac97593bc8d8"
+    },
+    {
+      "start_time": 72,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fluctuating, windy-sounding static at mid volume and mid-high pitch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "314d12ad-94c6-48b7-a8c1-59a21c01a861"
     }
   ],
   "set": "Default",
