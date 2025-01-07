@@ -482,6 +482,27 @@
         }
       ],
       "uuid": "04de04e0-c032-4a5a-927a-a365a59dc9db"
+    },
+    {
+      "start_time": 225,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low pitch, mid volume constant electronic bass sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic tones and distortions",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "d65711ad-40a9-4d65-ad46-968367825fb2"
     }
   ],
   "set": "Default",
