@@ -209,6 +209,27 @@
         }
       ],
       "uuid": "f72da82f-12b3-4f66-ac92-d7400b35ca22"
+    },
+    {
+      "start_time": 36,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three muffled, resonant pops at low volume and high pitch with mid onset and offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "b0579478-4aa1-4ebb-beb1-79a189ad579e"
     }
   ],
   "set": "Default",
