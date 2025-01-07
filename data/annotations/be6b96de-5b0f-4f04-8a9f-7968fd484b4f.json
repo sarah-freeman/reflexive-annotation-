@@ -771,6 +771,27 @@
         }
       ],
       "uuid": "f9a34617-d24f-45af-b679-f4eb5111b02c"
+    },
+    {
+      "start_time": 193,
+      "end_time": 223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low pitch vocalizations with short pauses and hard onset and offset, accompanied by fuzziness/static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "90a5356e-99d3-4474-a2bb-5cb18aba92fd"
     }
   ],
   "set": "Default",
