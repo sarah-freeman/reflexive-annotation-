@@ -83,6 +83,27 @@
         }
       ],
       "uuid": "e782329f-42bd-4fa2-95ee-f74be77d9071"
+    },
+    {
+      "start_time": 13,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three muffled, metallic taps at mid volume and low-mid pitch. Hard onset and medium offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "e7d92a61-15dd-4d7f-9887-a322ffa84f56"
     }
   ],
   "set": "Default",
