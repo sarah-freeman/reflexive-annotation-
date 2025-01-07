@@ -314,6 +314,27 @@
         }
       ],
       "uuid": "af65500a-88dc-48e8-8c67-cfec95c638a2"
+    },
+    {
+      "start_time": 132,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two fast pops, followed by a high volume, windy sound across all pitches. Volume decreases until sound is inaudible. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Friction sounds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "801465a4-20e2-4c9d-8d6b-38bf65e5d277"
     }
   ],
   "set": "Default",
