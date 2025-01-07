@@ -188,6 +188,27 @@
         }
       ],
       "uuid": "87ac344b-10e7-4aa7-b4bf-0f69a25d3d9e"
+    },
+    {
+      "start_time": 27,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High pitch, low volume tinny/squeaky intermittent sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "f72da82f-12b3-4f66-ac92-d7400b35ca22"
     }
   ],
   "set": "Default",
