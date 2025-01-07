@@ -251,6 +251,27 @@
         }
       ],
       "uuid": "3dc4a6ed-6b83-4545-b0d6-604d57df8a2a"
+    },
+    {
+      "start_time": 49,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low pitch vocalizations with hard onset and mid-hard offset distorted by static, beginning at mid volume and decreasing to low volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "320f46b6-2202-4bdd-a9b9-8ce5a78046a7"
     }
   ],
   "set": "Default",
