@@ -755,6 +755,27 @@
         }
       ],
       "uuid": "c7fd6864-1515-4cdc-afeb-d4c2001ae22d"
+    },
+    {
+      "start_time": 350,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice, speaking quickly with generally hard onset and soft offset. Repetition of \"the subject.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking voices",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "fe659776-2009-4337-9350-3a601002cc59"
     }
   ],
   "set": "Default",
