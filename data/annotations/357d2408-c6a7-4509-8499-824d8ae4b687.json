@@ -104,6 +104,27 @@
         }
       ],
       "uuid": "5c69e91e-a321-4eb4-86e2-d9576dfe1d6c"
+    },
+    {
+      "start_time": 56,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice. Repetition of \"the subject...,\" followed by description. Phrases tend to begin with hard onset, mid volume, and clear definition of words, and progress to lower volume and less-defined words, with longer pauses between words."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking voices",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "a354c9d6-c74c-49e7-8f5d-4f5a681de561"
     }
   ],
   "set": "Default",
