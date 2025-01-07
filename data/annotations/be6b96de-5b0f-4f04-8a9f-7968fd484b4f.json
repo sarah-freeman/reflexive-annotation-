@@ -792,6 +792,27 @@
         }
       ],
       "uuid": "90a5356e-99d3-4474-a2bb-5cb18aba92fd"
+    },
+    {
+      "start_time": 225,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic tone which varies around low-mid pitch and mid volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "03e24ffa-a252-4690-aac8-e2e2c3500668"
     }
   ],
   "set": "Default",
