@@ -981,6 +981,27 @@
         }
       ],
       "uuid": "cf6d94e6-92d6-484f-a9cc-85dff1a1bab8"
+    },
+    {
+      "start_time": 283,
+      "end_time": 340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Consistent low pitch, low volume electronic tone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "971b9985-37a0-4983-b617-f0c34a6c8f1b"
     }
   ],
   "set": "Default",
