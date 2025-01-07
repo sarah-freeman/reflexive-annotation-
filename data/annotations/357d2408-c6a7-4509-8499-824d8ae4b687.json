@@ -440,6 +440,27 @@
         }
       ],
       "uuid": "01a97332-3c5f-409e-87b9-77c82b575af2"
+    },
+    {
+      "start_time": 193,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One mid pitch voice speaking. Little intonation (i.e. most syllables are stressed), resulting in choppy-sounding words (e.g. ve-hi-cules). Short pauses between words. Call-and-response form (e.g. \"...right? Yeah, that's what it looks like to me.\") suggests two speakers, but there's only one voice. Elements that presumably refer to descriptive rather than spoken text (e.g. \"unintelligible,\" \"explicative\") included within the flow of speech, uttered by the same speaker."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking voices",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "8f881422-a43a-4684-9d4a-862253adfb6e"
     }
   ],
   "set": "Default",
