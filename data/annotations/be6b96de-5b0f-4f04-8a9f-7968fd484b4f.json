@@ -104,6 +104,27 @@
         }
       ],
       "uuid": "e7d92a61-15dd-4d7f-9887-a322ffa84f56"
+    },
+    {
+      "start_time": 15,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fluctuating low-mid pitch electronic tone at mid volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "7cb44eb0-9426-4a52-9368-50c9aa661a0a"
     }
   ],
   "set": "Default",
