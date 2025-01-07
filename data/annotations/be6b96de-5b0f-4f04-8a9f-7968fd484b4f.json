@@ -603,6 +603,27 @@
         }
       ],
       "uuid": "8d72ea81-71cd-4610-a908-10ebffbe3386"
+    },
+    {
+      "start_time": 132,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid pitch windy sound begins at high volume; volume decreases until sound is inaudible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "b9b74bd2-5c69-4f1f-b081-0f32ec1c2273"
     }
   ],
   "set": "Default",
