@@ -230,6 +230,27 @@
         }
       ],
       "uuid": "b0579478-4aa1-4ebb-beb1-79a189ad579e"
+    },
+    {
+      "start_time": 37,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Windy sound at high volume and mid pitch, which tapers to high pitch and low volume until inaudible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "3dc4a6ed-6b83-4545-b0d6-604d57df8a2a"
     }
   ],
   "set": "Default",
