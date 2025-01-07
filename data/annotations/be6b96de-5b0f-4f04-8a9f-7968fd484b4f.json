@@ -167,6 +167,27 @@
         }
       ],
       "uuid": "1c0720d3-d263-4c97-9702-4171e77fccc0"
+    },
+    {
+      "start_time": 23,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intermittent high pitch, mid volume beeps/cracks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "87ac344b-10e7-4aa7-b4bf-0f69a25d3d9e"
     }
   ],
   "set": "Default",
