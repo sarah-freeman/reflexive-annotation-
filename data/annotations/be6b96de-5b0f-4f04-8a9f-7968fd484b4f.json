@@ -1002,6 +1002,27 @@
         }
       ],
       "uuid": "971b9985-37a0-4983-b617-f0c34a6c8f1b"
+    },
+    {
+      "start_time": 283,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid-high pitch metallic tone which increases to a peak and then decreases until inaudible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "a4e77d38-20bc-47cb-b563-9f4620c4882c"
     }
   ],
   "set": "Default",
