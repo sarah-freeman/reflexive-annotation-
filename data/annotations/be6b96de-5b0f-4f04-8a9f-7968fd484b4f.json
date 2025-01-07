@@ -687,6 +687,27 @@
         }
       ],
       "uuid": "56c8292c-bd28-4919-a57e-1f1005f1272a"
+    },
+    {
+      "start_time": 151,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High pitch, mid volume chirp."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "ca65098e-4841-4688-bc3c-eb8aeef55068"
     }
   ],
   "set": "Default",
