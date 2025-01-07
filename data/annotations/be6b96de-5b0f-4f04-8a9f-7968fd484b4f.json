@@ -1212,6 +1212,27 @@
         }
       ],
       "uuid": "bab9d2e9-f3f4-4545-b3b0-14afade2ae0c"
+    },
+    {
+      "start_time": 359,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Crunching, gravelly sound and pops with high pitch and mid volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "1b6ef371-e867-4a60-95d4-e9608a042039"
     }
   ],
   "set": "Default",
