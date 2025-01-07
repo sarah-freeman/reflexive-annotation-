@@ -1233,6 +1233,27 @@
         }
       ],
       "uuid": "1b6ef371-e867-4a60-95d4-e9608a042039"
+    },
+    {
+      "start_time": 389,
+      "end_time": 389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid volume, high pitch beep."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "ffa22ed8-f5d8-45db-aeed-fb1e3ab433f0"
     }
   ],
   "set": "Default",
