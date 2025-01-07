@@ -624,6 +624,27 @@
         }
       ],
       "uuid": "b9b74bd2-5c69-4f1f-b081-0f32ec1c2273"
+    },
+    {
+      "start_time": 138,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid pitch, high volume buzzing sound increases in volume and pitch to reach a high point, then decreases until sound cuts off."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "766df843-8edf-446e-9658-63fbd8fd6214"
     }
   ],
   "set": "Default",
