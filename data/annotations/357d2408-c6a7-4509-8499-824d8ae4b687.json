@@ -146,6 +146,27 @@
         }
       ],
       "uuid": "e3130bad-b3ed-4154-8d7d-cccea594145c"
+    },
+    {
+      "start_time": 73,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clicking sound no longer audible. Windy sound increases in volume and variability."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Friction sounds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "a1ffba00-efea-4fbd-859a-90cf7b6ea8f3"
     }
   ],
   "set": "Default",
