@@ -671,6 +671,27 @@
         }
       ],
       "uuid": "bb474d23-3025-4177-ba00-40e9b8edf0a6"
+    },
+    {
+      "start_time": 292,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avasilichioaei's voice, mid pitch and volume, speaking with relatively few pauses. Repetition of \"end.\" Speech slows and decreases in volume near the end of this interval."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking voices",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "a6050026-48c6-4cda-8a82-abc84f1198e7"
     }
   ],
   "set": "Default",
