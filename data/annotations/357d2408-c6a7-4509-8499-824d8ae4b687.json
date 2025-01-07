@@ -608,6 +608,27 @@
         }
       ],
       "uuid": "4866a094-19c9-4790-b722-eefc1bcad8ea"
+    },
+    {
+      "start_time": 263,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High volume, hollow sounding pop across all pitches, but concentrated in the low to mid range. Hard onset and offset. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Friction sounds",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "1b0bac7c-144f-49c6-bac1-deb29421163f"
     }
   ],
   "set": "Default",
