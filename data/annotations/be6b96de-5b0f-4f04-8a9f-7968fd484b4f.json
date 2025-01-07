@@ -918,6 +918,27 @@
         }
       ],
       "uuid": "5d1c93ca-bc04-437d-8589-5636374ec340"
+    },
+    {
+      "start_time": 259,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muffled, mid pitch, low volume intermittent scratching sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "50fb4a7c-b7df-469f-99a0-ef6420c94cc9"
     }
   ],
   "set": "Default",
