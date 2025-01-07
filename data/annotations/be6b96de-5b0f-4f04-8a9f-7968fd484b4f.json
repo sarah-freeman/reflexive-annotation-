@@ -1065,6 +1065,27 @@
         }
       ],
       "uuid": "c8a515b6-af3d-4251-9aaa-16c1153b97db"
+    },
+    {
+      "start_time": 297,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intermittent gravelly friction sounds at low-mid volume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "1bd467c4-7caf-4ff1-acf7-e14c865fd8f7"
     }
   ],
   "set": "Default",
