@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resonant, low pitch and low volume static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "ce9b62db-7d11-44ba-b98e-ab8a7e7fa3e8"
+    }
+  ],
   "set": "Default",
   "event_id": "ad8c9c72-633f-4654-8dd9-9124f2d9f5db",
   "source_id": "23e110f3-faab-43c1-a508-bb868c1bcd96"
