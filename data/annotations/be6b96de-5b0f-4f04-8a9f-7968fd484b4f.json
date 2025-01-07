@@ -582,6 +582,27 @@
       ],
       "tags": [],
       "uuid": "f21d0897-ba60-4574-9eaf-fc190ddb84e8"
+    },
+    {
+      "start_time": 131,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two mid volume, mid pitch pops with hard onset and offset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mic 3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "8d72ea81-71cd-4610-a908-10ebffbe3386"
     }
   ],
   "set": "Default",
