@@ -335,6 +335,27 @@
         }
       ],
       "uuid": "801465a4-20e2-4c9d-8d6b-38bf65e5d277"
+    },
+    {
+      "start_time": 138,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mid pitch, mid volume consistent electronic buzzing sound. Accompanied by low pitch buzzing sound which begins at low volume and increases in pitch and volume until a consistent, multitonal electronic sound is audible across all pitches. Then, volume decreases slightly until sound cuts off."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic tones and distortions",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "b02e6325-c761-449d-8098-4cd80913be11"
     }
   ],
   "set": "Default",
