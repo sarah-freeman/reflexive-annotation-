@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Introduction",
+          "text": "",
           "bold": true
         }
       ]
@@ -1465,6 +1465,6 @@
   "slug": "introduction",
   "created_at": "2025-01-09T16:05:28.626Z",
   "created_by": "sarah-freeman",
-  "updated_at": "2025-01-09T16:09:33.276Z",
+  "updated_at": "2025-01-09T16:10:15.730Z",
   "updated_by": "sarah-freeman"
 }
